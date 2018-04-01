@@ -9,3 +9,5 @@ It is for this type of dish:
 [Blog post](https://blog.donbowman.ca/2018/04/01/the-case-of-the-missing-pyrex-stopper-3d-printing-to-the-rescue/)
 
 Released under Apache 2.0 license.
+
+Published on [Thingiverse](https://www.thingiverse.com/thing:2847184)
